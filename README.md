@@ -1,6 +1,6 @@
 # My Project
 
-##The Overview of my project:
+## The Overview of my project:
 
 ## Screenshots
 

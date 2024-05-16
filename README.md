@@ -1,6 +1,6 @@
 # My Project
 
-This is the UI of GPT3:
+##The Overview of my project:
 
 ## Screenshots
 
